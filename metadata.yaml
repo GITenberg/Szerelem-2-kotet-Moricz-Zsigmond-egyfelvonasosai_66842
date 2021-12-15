@@ -1,5 +1,8 @@
 _repo: Szerelem-2-kotet-Moricz-Zsigmond-egyfelvonasosai_66842
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Móricz, Zsigmond
@@ -12,6 +15,8 @@ creator:
     - https://en.wikipedia.org/wiki/Zsigmond_M%C3%B3ricz
     - https://hu.wikipedia.org/wiki/M%C3%B3ricz_Zsigmond
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66842#Szerelem-2-kotet-Moricz-Zsigmond-egyfelvonasosai
 gutenberg_issued: '2021-11-29'
 identifiers:
   gutenberg: '66842'
